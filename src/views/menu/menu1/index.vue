@@ -4,7 +4,7 @@
       三级及其以上路由缓存功能默认关闭，需要请前往此配置文件中打开：
       <el-link
         type="primary"
-        href="https://github.com/un-pany/v3-admin-vite/blob/main/src/config/route.ts"
+        href="https://github.com/piece-Chao/v3-admin-template/blob/main/src/config/route.ts"
         target="_blank"
       >
         src/config/route.ts
