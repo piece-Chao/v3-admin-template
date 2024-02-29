@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="V3 Admin Vite Logo" width="120" height="120" src="./src/assets/layouts/logo.png">
-  <h1>V3 Admin Template</h1>
+  <h1>V3 Admin Template1</h1>
 </div>
 
 ## ⚡ 简介
